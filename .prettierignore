@@ -1,0 +1,4 @@
+public/
+dist/
+sec-tauri/
+node_modules
